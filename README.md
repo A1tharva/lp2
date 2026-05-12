@@ -244,7 +244,7 @@ Explain:
 
 ---
 
-AI : 
+AI : to run - python3 fileName.py
 
 1. Breadth First Search (BFS)
 2. Depth First Search (DFS)
