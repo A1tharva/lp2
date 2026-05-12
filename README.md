@@ -257,10 +257,10 @@ AI : to run - python3 fileName.py
 5(c). Kruskal’s Minimum Spanning Tree Algorithm
 5(d). Dijkstra’s Shortest Path Algorithm
 
-9. N-Queens Problem using CSP, Backtracking and Branch & Bound
-10. Graph Coloring using CSP, Backtracking and Branch & Bound
-11. Elementary Chatbot System for Customer Interaction
-12. Rule-Based Elementary Chatbot using Basic AI Techniques
+9. N-Queens Problem using CSP, Backtracking and Branch & Bound - nQBack : backtracking ; nQBranch : Branch & Bound
+10. Graph Coloring using CSP, Backtracking and Branch & Bound - Backtracking and Branch & Bound : colorBack.py ( same code for both )
+11. Elementary Chatbot System for Customer Interaction : bot.py ( same as 12 )
+12. Rule-Based Elementary Chatbot using Basic AI Techniques : bot.py ( same as 11 )
 
 
 
