@@ -262,6 +262,42 @@ AI : to run - python3 fileName.py
 11. Elementary Chatbot System for Customer Interaction : bot.py ( same as 12 )
 12. Rule-Based Elementary Chatbot using Basic AI Techniques : bot.py ( same as 11 )
 
+-----
+
+CC : SalesForce & Trigger Example 
+
+Real-Life Example: Online Shopping Website
+
+Imagine you order a phone from an online shopping app.
+
+The moment you place the order, many things happen automatically:
+
+1. Your order gets saved.
+2. Stock quantity decreases.
+3. You receive a confirmation email.
+4. Delivery team gets notified.
+5. Invoice is generated.
+
+Nobody does this manually every time.
+
+A system automatically reacts when a new order is created.
+
+That automatic reaction is similar to a Trigger in Salesforce.
+
+⸻
+
+Salesforce Example
+
+Suppose a company stores customer data in Salesforce.
+
+When a new customer is added:
+
+* Salesforce automatically sends a welcome email.
+* Assigns a sales representative.
+* Creates a follow-up reminder.
+
+This automatic process can be written using an Apex Trigger.
+
 
 
 
