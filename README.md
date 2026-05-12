@@ -243,3 +243,34 @@ Explain:
 * “Salesforce provides global search functionality.”
 
 ---
+
+AI : 
+
+1. Breadth First Search (BFS)
+2. Depth First Search (DFS)
+3. A* Algorithm for 8-Puzzle
+4. Pathfinding in Maze
+5. Greedy Algorithms
+
+5(a). Selection Sort
+5(b). Prim’s Minimum Spanning Tree Algorithm
+5(c). Kruskal’s Minimum Spanning Tree Algorithm
+5(d). Dijkstra’s Shortest Path Algorithm
+
+9. N-Queens Problem using CSP, Backtracking and Branch & Bound
+10. Graph Coloring using CSP, Backtracking and Branch & Bound
+11. Elementary Chatbot System for Customer Interaction
+12. Rule-Based Elementary Chatbot using Basic AI Techniques
+
+
+
+
+
+
+
+
+
+
+
+
+
